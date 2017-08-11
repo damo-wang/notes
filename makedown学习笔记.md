@@ -23,7 +23,11 @@
   '''扩起来多行代码'''
 ## 表格
   使用-和|来描述表格
-   列1 | 列2 | 列3
-  ---  |---  |----
-  第一行|第一行|第一行
-  第二行|第二行|第二行 
+|dog | bird | cat|
+|----|------|----|
+|foo | foo  | foo|
+|bar | bar  | bar|
+|baz | baz  | baz|
+## 其他
+> 参考下面链接
+> [青葱makedown](http://bbs.helloqingcong.com/read.php?tid=518&fid=22)
